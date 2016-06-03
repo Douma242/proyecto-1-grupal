@@ -1,3 +1,5 @@
-import prob_7
-l1=[4]
-print (prob_7.prob_7(l1))
+import hola
+l1=[3, 4, 5]
+
+print (hola.prob_9(l1))
+print (l1)
